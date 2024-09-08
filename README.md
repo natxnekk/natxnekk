@@ -1,6 +1,6 @@
 ## natxnek info
 
-Languages: English, Polish
+Languages: English, Polish<br />
 Programming Languages:
   - luau
   - c#
@@ -12,8 +12,8 @@ Programming Languages:
   - vb .net
   - shell
 
-Age: 15
-Prices: Cheap, Building portfolio
+Age: 15<br />
+Prices: Cheap, Building portfolio<br />
 Experience:
   - General Programming: 6 Years
   - Luau: 5 Years
