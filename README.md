@@ -1,16 +1,11 @@
-## Hi there 👋
+## natxnek info
 
-<!--
-**natxnekk/natxnekk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+{
+  "languages": ["English", "Polish"],
+  "programming-languages": [
+    "luau", "c#", "c++", "java", "javascript", "python", "go", "vb .net", "shell"
+  ],
+  "age": 15,
+  "prices": "cheap, (building portfolio)",
+  "experience": "6 years of general programming, 5 years in luau",
+}
