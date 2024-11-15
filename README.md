@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub!
 
-Hi, I'm [Your Name] — a minimalist game developer and programming enthusiast, constantly learning and building.  
+Hi, I'm Nathan — a minimalist game developer and programming enthusiast, constantly learning and building.  
 
 ---
 
