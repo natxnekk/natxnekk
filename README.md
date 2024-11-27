@@ -10,7 +10,7 @@ Hi, I'm Nathan — a minimalist game developer and programming enthusiast, const
   - **Languages**: Luau, C#, C++, Java, JavaScript, Python, Go, VB .NET, Shell  
   - **Experience**:  
     - General Programming: 6 years  
-    - Luau: 5 years  
+    - Luau: 6 years  
 
 ---
 
