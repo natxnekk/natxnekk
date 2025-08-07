@@ -42,4 +42,4 @@ Looking for a skilled and passionate developer?
 
 ## 📝 Connect with Me
 📧 Email: natiyt.biznes@gmail.com
-🟦 Discord: natixo
+🟦 Discord: natxnek
