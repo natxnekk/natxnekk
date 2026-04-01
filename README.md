@@ -1,45 +1,49 @@
-# 👋 Welcome to My GitHub!
-
-Hi, I'm Nathan — a minimalist game developer and programming enthusiast, constantly learning and building.  
-
----
-
-## 🛠 About Me  
-- 🎮 **Game Dev**: Crafting immersive experiences and pushing creative boundaries.  
-- 🖥️ **Tech Stack**:  
-  - **Languages**: Luau, C#, C++, Java, JavaScript, Python, Go, VB .NET, Shell  
-  - **Experience**:  
-    - General Programming: 8 years  
-    - Luau: 7 years  
+# hey, i'm nathan
+i'm a self-taught developer, i've been programming for about 8 years now. started with Luau, then moved to some more serious languages, but never dropped luau
 
 ---
 
-## 💼 Services  
-- 🌟 **Affordable Rates**: I'm currently offering **cheap development services** to grow my portfolio.  
-- 🚀 **Passionate about delivering quality work**, no matter the project size.  
+## what i work with
 
+mostly games - roblox, minecraft, unity, etc. i've been writing Luau for 7 years so that's probably where i'm most comfortable, currently learning more low-level languages like c++ or rust
+
+**programming languages i use:**
+`Luau` `C#` `Java` `JavaScript` `Python` `Go` `VB .NET` `Shell` ~~(HTML CSS)~~<br>
+**still learning:** `C++` `Rust`
+
+**languages i use:**<br>
+`Polish` - native<br>
+`English` - fluent
+
+## **tools i use:**
+**editors**
+`VS Code` `Visual Studio` `IntelliJ IDEA` `Rider` `Neovim` `Sublime Text`<br>
+**game engines**
+`Roblox Studio` `Unity` `Unreal Engine` + building my own<br>
+**minecraft**
+`Spigot` `Paper` `Bukkit` `BungeeCord` `Velocity`<br>
+**version control**
+`Git` `GitHub`<br>
+**package managers / build**
+`npm` `pnpm` `pip` `Gradle` `CMake`<br>
+**databases**
+`MySQL` `MongoDB`<br>
+**infra / hosting**
+`Docker` `Linux` `Cloudflare` `Vercel`<br>
+**design**
+`Figma` `Photoshop` `Blender`<br>
+**other**
+`Discord` `Trello` `Obsidian` `Postman` `WSL` `Windows Terminal` `OBS`
+
+
+## what i create
+- roblox games & systems
+- minecraft plugins & server setups
+- unity projects
+- whatever else sounds interesting
 ---
 
-## 🧪 What I'm Exploring  
-- 🎲 **Game Mechanics**: Experimenting with Unity HDRP for cinematic visuals.  
-- 💡 **Innovative Concepts**: Open to collaborating on unique and creative ideas.  
+~~open for work~~
 
----
-
-## 📊 My GitHub Stats  
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=natxnekk&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natxnekk&layout=compact&theme=radical)  
-
----
-
-## 🤝 Let's Work Together!  
-Looking for a skilled and passionate developer?  
-- Got a project? Let’s make it happen!  
-- Affordable rates and a dedication to quality.  
-
----
-
-## 📝 Connect with Me
-📧 Email: natiyt.biznes@gmail.com
-🟦 Discord: natxnek
+-discord: `natxnek`<br>
+-roblox: `natxnek`
